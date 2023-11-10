@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Noah',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'media',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'YouTube',
+					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TikTok',
+					link: 'https://tiktok.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Netflix',
+					link: 'https://netflix.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitch',
+					link: 'https://twitch.tv',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'racing',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'SWR',
+					link: 'https://scheibenwischer.racing',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'RaceApp',
+					link: 'https://raceapp.eu',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'CompCup',
+					link: 'https://competizionecup.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'LFM',
+					link: 'https://lowfuelmotorsport.com',
 				},
 			],
 		},
@@ -183,46 +183,46 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'code',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Local',
+					link: 'localhost:3000',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Github',
+					link: 'https://github.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'MySQL',
+					link: '45.136.30.30:99',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Firebase',
+					link: 'https://console.firebase.google.com/u/4/project/pitpath-d4812/overview',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'other',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'OvTG',
+					link: 'https://ovtgym.eltern-portal.org/service/vertretungsplan',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Mebis',
+					link: 'https://lernplattform.mebis.bayern.de',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Wakatime',
+					link: 'https://wakatime.com/dashboard',
 				},
 			],
 		},
