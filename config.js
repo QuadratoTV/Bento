@@ -188,7 +188,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Local',
-					link: 'localhost:3000',
+					link: 'http://localhost:3000',
 				},
 				{
 					name: 'Github',
@@ -196,7 +196,7 @@ const CONFIG = {
 				},
 				{
 					name: 'MySQL',
-					link: '45.136.30.30:99',
+					link: 'http://45.136.30.30:99',
 				},
 				{
 					name: 'Firebase',
