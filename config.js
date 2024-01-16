@@ -205,7 +205,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'book',
 			id: '2',
 			links: [
 				{
@@ -221,8 +221,8 @@ const CONFIG = {
 					link: 'https://lernplattform.mebis.bayern.de',
 				},
 				{
-					name: 'Wakatime',
-					link: 'https://wakatime.com/dashboard',
+					name: 'Vertretungsplan',
+					link: 'https://vertretungsplan.onrender.com/noah',
 				},
 			],
 		},
