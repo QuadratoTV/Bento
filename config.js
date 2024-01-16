@@ -221,7 +221,7 @@ const CONFIG = {
 					link: 'https://lernplattform.mebis.bayern.de',
 				},
 				{
-					name: 'Vertretungsplan',
+					name: 'Ontis',
 					link: 'https://vertretungsplan.onrender.com/noah',
 				},
 			],
